@@ -1,1 +1,1 @@
-# admin-dashboard-proj
+# This repository contains files for my version of the Admin Dashboard project from The Odin Project.
